@@ -1,4 +1,4 @@
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdxZDI3c3B2OGFndXk5MnRkdDM5cm1xOGhxd2h2ZXZxaHh3OWN6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl(6H6/giphy.gif)
+![Tech GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1pOXoya3MzNWxqZ2VhMmxlMDEyYnp6ajFld3k0dG55NzM1ZjIzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWbXcpeKhTktXi/giphy.gif)
 # Hi, I'm Agbebi Oluwashola Samuel 👋
 
 ![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20GitHub%20Profile!-brightgreen?style=for-the-badge)
@@ -10,8 +10,6 @@ I'm a software developer with a passion for building innovative and scalable app
 - AI Development
 
 Welcome to my GitHub profile! 🚀
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
 
 ## 🚀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
