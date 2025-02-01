@@ -1,6 +1,6 @@
 # Hi, I'm Agbebi Oluwashola Samuel 👋
 
-![Welcome](https://media.giphy.com/media/xT9Iglm47Vw09ToM5O/giphy.gif)
+![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20GitHub%20Profile!-brightgreen?style=for-the-badge)
 
 I'm a software developer with a passion for building innovative and scalable applications. I specialize in:
 - Mobile App Development
