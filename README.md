@@ -1,4 +1,5 @@
-![Tech GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1pOXoya3MzNWxqZ2VhMmxlMDEyYnp6ajFld3k0dG55NzM1ZjIzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWbXcpeKhTktXi/giphy.gif)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWczenhnMDZxcHZqbHh5eHU2aG9tZWFhNHBsMDJpbTFwOTZhcjJ5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif" width="100%" height="auto">
+
 # Hi, I'm Agbebi Oluwashola Samuel 👋
 
 ![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20GitHub%20Profile!-brightgreen?style=for-the-badge)
