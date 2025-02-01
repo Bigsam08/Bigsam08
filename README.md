@@ -1,5 +1,14 @@
 # Hi, I'm Agbebi Oluwashola Samuel 👋
-I'm a software developer with a passion for building innovative and scalable applications. I specialize in Mobile apps development, software developpment, Full-Stack web development and AI development. Welcome to my GitHub profile!
+
+![Welcome](https://media.giphy.com/media/26tPoyDhjiJ2g6G6g/giphy.gif)
+
+I'm a software developer with a passion for building innovative and scalable applications. I specialize in:
+- Mobile App Development
+- Software Development
+- Full-Stack Web Development
+- AI Development
+
+Welcome to my GitHub profile! 🚀
 
 
 ## 🚀 Skills & Technologies
@@ -48,7 +57,7 @@ I'm a software developer with a passion for building innovative and scalable app
 - Tech stack: React, JavaScript, Bootstrap, Express, Nodejs, Mongo DB Atlas
 - Key Features: Room, Avalability, Hotel features, Book rooms, Make payment, Get instant Booking email confirmation, Contact form.
 
--[Demo](https://www.youtube.com/watch?v=k43DMrKgwUw&t=15s)
+[Demo](https://www.youtube.com/watch?v=k43DMrKgwUw&t=15s)
 
 ## 📬 Get in Touch
 
