@@ -1,6 +1,6 @@
 # Hi, I'm Agbebi Oluwashola Samuel 👋
 
-![Welcome](https://media.giphy.com/media/26tPoyDhjiJ2g6G6g/giphy.gif)
+![Welcome](https://media.giphy.com/media/xT9Iglm47Vw09ToM5O/giphy.gif)
 
 I'm a software developer with a passion for building innovative and scalable applications. I specialize in:
 - Mobile App Development
