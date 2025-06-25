@@ -15,6 +15,11 @@ Welcome to my GitHub profile! 🚀
 ## 🚀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 
+## 🌐 Portfolio
+
+Check out my personal website 👉 [bigsam.dev](https://osa-portfolio.netlify.app)
+
+
 
 ## 🚀 Skills & Technologies
 
@@ -48,6 +53,40 @@ Welcome to my GitHub profile! 🚀
 
 
 - ## 🔨 Featured Projects
+
+# 💬 Q Chat App
+
+> A fully responsive web-based chat application that allows users to send and receive live messages in real-time.
+
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** React, JavaScript, Tailwind  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB Atlas
+
+---
+
+## 🔑 Key Features
+
+- 💬 Real-time chat
+- ✅ User availability status
+- 🧑🏽‍🦲 Get online users:
+  - Update profile image ans status
+  - Search for a user by user name
+  - User Authentiation
+  - Forget password reset
+
+---
+
+## 🔗 Demo
+
+[check the project live](https://qchat-mu-vercel.app)
+
+---
+
+
 
 ### [Movie rating app](https://github.com/Bigsam08/Bigsam08.github.io)
 >  This is a Movie rating app, where users can check in to see latest trending movies and also rate the movie for other users to see, in other not to waste time watching movies that aint worth it. This is the landing page and this is my first web project.
