@@ -54,21 +54,21 @@ Check out my personal website 👉 [bigsam.dev](https://osa-portfolio.netlify.ap
 
 - ## 🔨 Featured Projects
 
-# 💬 Q Chat App
+### 💬 Q Chat App
 
 > A fully responsive web-based chat application that allows users to send and receive live messages in real-time.
 
----
 
-## 🚀 Tech Stack
+
+- 🚀 Tech Stack
 
 - **Frontend:** React, JavaScript, Tailwind  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB Atlas
 
----
 
-## 🔑 Key Features
+
+- 🔑 Key Features
 
 - 💬 Real-time chat
 - ✅ User availability status
@@ -76,16 +76,9 @@ Check out my personal website 👉 [bigsam.dev](https://osa-portfolio.netlify.ap
   - Update profile image ans status
   - Search for a user by user name
   - User Authentiation
-  - Forget password reset
+  - Forget password rese
 
----
-
-## 🔗 Demo
-
-[check the project live](https://qchat-mu-vercel.app)
-
----
-
+- [check the project live](https://qchat-mu-vercel.app)
 
 
 ### [Movie rating app](https://github.com/Bigsam08/Bigsam08.github.io)
